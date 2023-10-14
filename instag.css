@@ -89,6 +89,7 @@ input:focus {
 }
 .dif .forgot a{
 	color: #003569;
+	text-decoration: none;
 }
 .bottom {
     width: 350px;
