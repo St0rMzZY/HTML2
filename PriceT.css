@@ -101,7 +101,7 @@
     border-color: var(--col);
     background-color: #ffffff;
     box-shadow: #3a3a3a;
-    transform: translateY(-26px) scale(1.00); 
+    transform: scale(1.10); 
     transition: all 0.5s ease;
   }
   
